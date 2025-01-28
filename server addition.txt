@@ -1,0 +1,4 @@
+[diskUsage]
+minFreeSpace = 50
+pollingFrequency = 100000
+pollingTimeFrequency = 10
